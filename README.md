@@ -1,5 +1,5 @@
 # simple ethers.js test
-# This `README.md` was created using ChatGPT because I was too lazy to write a description for this test project myself.😁
+### This `README.md` was created using ChatGPT because I was too lazy to write a description for this test project myself.😁
 
 A small test project written in **TypeScript** using **Node.js** and **ethers.js v6**.
 
